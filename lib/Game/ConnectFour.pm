@@ -1,5 +1,5 @@
 package Game::ConnectFour;
-our $VERSION = 0.010;
+our $VERSION = 0.011;
 use strict;
 use warnings;
 require Win32::Console::ANSI if $^O eq "MSWin32";
