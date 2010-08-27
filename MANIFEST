@@ -1,0 +1,9 @@
+bin/connectfour
+Build.PL
+lib/Game/ConnectFour.pm
+lib/pods/Game/ConnectFour.pod
+MANIFEST			This list of files
+t/00-load.t
+t/manifest.t
+t/pod.t
+META.yml
